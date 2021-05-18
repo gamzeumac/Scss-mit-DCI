@@ -19,5 +19,6 @@
   "homepage": "https://github.com/edwardtanguay/sass_base#readme",
   "devDependencies": {
     "node-sass": "^6.0.0"
-  }
+  },
+  "dependencies": {}
 }
