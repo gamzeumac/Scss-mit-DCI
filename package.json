@@ -1,0 +1,23 @@
+{
+  "name": "sass_base",
+  "version": "1.0.0",
+  "description": "This repository has multiple branches which each show a different way to set up SASS in a website in order to automatically convert it to CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardtanguay/sass_base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardtanguay/sass_base/issues"
+  },
+  "homepage": "https://github.com/edwardtanguay/sass_base#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
